@@ -1,0 +1,18 @@
+.app {
+  font-family: 'Noto Sans KR', sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+input {
+  margin: 5px;
+  padding: 8px;
+}
+button {
+  margin: 10px;
+  padding: 10px 20px;
+}
+.result-card {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
